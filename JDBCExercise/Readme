@@ -1,0 +1,3 @@
+This Java Project connects to a SQLite DataBase and runs some basic queries on the (fake) data.
+Queries can be run by executing the example classes in the 'examples' package. This project 
+demonstrates the use of JDBC and SQL queries.
